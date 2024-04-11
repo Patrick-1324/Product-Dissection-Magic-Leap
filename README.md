@@ -63,8 +63,8 @@ Friendship Entity: Manages user friendships and their status.
 SupportTicket Entity: Handles user-generated support tickets, categorizing and tracking their status.
 
 ## ER Diagram
+![ER_Diagram](https://github.com/Patrick-1324/Product-Dissection-Magic-Leap/assets/59449931/fa724834-02bd-4143-bf40-c568cf741ec1)
 
-.
 
 ## Conclusion
 Understanding the Magic Leap 2 schema provides valuable insights into its efficient management of user interactions, content creation, collaboration, and accessibility. This schema underscores Magic Leap 2's potential to transform various domains, from education and healthcare to entertainment. By serving as the foundation for an ecosystem that empowers users to explore, create, collaborate, and innovate, Magic Leap 2 solidifies its position as a pioneering AR/VR platform shaping the future of human-computer interaction.
